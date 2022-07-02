@@ -10,7 +10,6 @@ public class TesteConstrutor1 {
 		System.out.println("Novo titular = " + conta2.getTitular());
 		System.out.println("Agência = " + conta2.getAgencia());
 		System.out.println("Número da conta = " + conta2.getNumero());
-		System.out.println("Número da conta = " + conta2.getNumero());
 
 	}
 }
